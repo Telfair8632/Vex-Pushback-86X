@@ -1,0 +1,15 @@
+# PROS build artifacts
+bin/
+.cache/
+.d/
+*.o
+*.elf
+*.bin
+*.map
+
+# Generated files
+compile_commands.json
+
+# OS files
+.DS_Store
+Thumbs.db
